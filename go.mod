@@ -13,7 +13,7 @@ require (
 	github.com/jinzhu/gorm v1.9.16
 	github.com/joho/godotenv v1.4.0
 	github.com/lib/pq v1.10.3
-	github.com/mailgun/mailgun-go/v4 v4.5.3
+	github.com/mailgun/mailgun-go/v4 v4.7.0
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-sqlite3 v2.0.1+incompatible // indirect
 	github.com/mitchellh/mapstructure v1.1.2 // indirect
